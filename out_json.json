@@ -1,0 +1,463 @@
+{
+    "FAQ_List": [
+        {
+            "id": 1,
+            "sequence": 1,
+            "categoryName": "General Questions",
+            "questionList": [
+                {
+                    "questionId": 1,
+                    "questionSequence": 1,
+                    "questionText": "What is the electronic patient record (EHR)?",
+                    "questionDesc": "The \"AOK Mein Leben\" app \u2013 the electronic patient record (ePA) of your AOK \u2013 offers you the opportunity to digitally organize your health data and share it with participating healthcare facilities. Managing the app and adding or deleting data is easy and secure. Medical practices or other service providers authorized by you can also view your data and store relevant medical documents."
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 2,
+                    "questionText": "What are the benefits of the \"AOK Mein Leben\" app for me?",
+                    "questionDesc": "You can access your <ul><li>electronic medical record (ePA) at any time via smartphone, tablet, PC or laptop</li> You <li>can provide your health information to selected medical institutions</li> You <li>decide who has access to</li> your data You <li>avoid unnecessary duplicate examinations through greater data transparency You</li><li>strengthen your doctor-patient relationship because your doctor's office has the information you need quickly at hand</li><li>You promote your self-determination and health literacy</li></ul>"
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 3,
+                    "questionText": "What are the functions of the \"AOK Mein Leben\" app?",
+                    "questionDesc": "Practices, hospitals, pharmacies and your AOK that have received a corresponding authorization from you, as well as yourself, can store medical documents in your electronic patient file. Specifically, the \"AOK My Life\" app offers you the following functions:<ul><li>Storage and management of medical documents, such as findings, diagnoses, therapeutic measures and doctor's letters</li> the electronic <li>dental bonus booklet</li> the electronic <li>examination booklet for children</li> the electronic <li>maternity record the</li> electronic <li>vaccination documentation</li><li>electronic prescriptions</li><li>Health insurance data on services</li> <li>you have usedRefined authorization control</li><li>Determination of representatives of your EHR</li></ul>"
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 4,
+                    "questionText": "Who can use the \"AOK Mein Leben\" app?",
+                    "questionDesc": "AOK policyholders aged 16 and over can use the \"AOK Mein Leben\" app. Under 16-year-olds, offline use of the electronic patient record (ePA) is available."
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 5,
+                    "questionText": "Do I have to use the electronic patient record (ePA)?",
+                    "questionDesc": "No, the electronic patient record (ePA) is a voluntary service. You alone decide whether you want to use the EHR."
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 6,
+                    "questionText": "Can I use the electronic patient record (ePA) without a smartphone?",
+                    "questionDesc": "The use of the electronic patient record (ePA) is also possible without the \"AOK Mein Leben\" app.<br />If you would like to use the ePA without a smartphone, you can apply for it at your AOK office. Please bring your electronic health card (eGK) and a valid identification document with you. We create the ePA for you and send you a PIN for your eGK. With your eGK and the corresponding PIN, you can then enable a local medical service provider to access your ePA.<br />In addition, you have the option of installing a desktop version of the ePA on your computer. For the desktop version, it is also necessary to register with your AOK office (see previous paragraph). Then you can download the desktop app and use it together with your eGK and a card reader. We recommend card terminal variants of security classes 2 (card reader with its own PIN pad) or 3 (PIN pad plus display)."
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 7,
+                    "questionText": "Does the \"AOK Mein Leben\" app cost me anything?",
+                    "questionDesc": "The \"AOK Mein Leben\" app is free of charge for you."
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 8,
+                    "questionText": "Which operating system of my smartphone is required to use the \"AOK Mein Leben\" app?",
+                    "questionDesc": "Android from version <ul><li>8.1</li><li>iOS from version 14</li></ul>"
+                },
+                {
+                    "questionId": 1,
+                    "questionSequence": 9,
+                    "questionText": "Can I also access the \"AOK Mein Leben\" app with my computer or laptop?",
+                    "questionDesc": "Yes, the desktop version allows access to the electronic patient record (ePA). For the desktop version, registration with your AOK office is necessary. Please bring your electronic health card (eGK) and a valid identification document with you. We will send you a PIN for your electronic health card (eGK). Then you can download the desktop app and use it together with your eGK and a card reader. We recommend card terminal variants of security classes 2 (card reader with its own PIN pad) or 3 (PIN pad plus display)."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "sequence": 2,
+            "categoryName": "Registration ",
+            "questionList": [
+                {
+                    "questionId": 2,
+                    "questionSequence": 1,
+                    "questionText": "How do I register for \"AOK Mein Leben\"?",
+                    "questionDesc": "1. Start the registration process in the \"AOK Mein Leben\" app<br />Download and open the \"AOK Mein Leben\" app. By clicking on \"Register\" you start the registration process and will be redirected to the next page for the declaration of consent. Read the privacy policy and consent to the user account and agree. Important: You will not be able to proceed with the registration process without consent.<br /><br />2. Enter your email address, confirm and set password<br />Enter your email address. This will be used for your registration. You will receive a confirmation link to the e-mail address provided. Open the confirmation link to set your password. A browser window will then open where you can set your password. This will be used for your registration. Now log in to the \"AOK Mein Leben\" app with your e-mail address and the specified password.<br /><br />3. Two-factor authentication<br />Assign a device name for your smartphone. Click \"Continue\" to confirm your AOK membership.<br /><br />4. Confirmation of AOK membership with your electronic health card (eGK)<br />The \"AOK Mein Leben\" app can only be used by AOK policyholders. Confirm your membership in the \"AOK Mein Leben\" app. You will find the necessary information on your electronic health card (eGK). To do this, select your AOK and enter your insurance number (please use a capital letter at the front). Your membership will be verified within a few minutes.<br /><br />5. Identification process for even more security of your data<br />Follow the further instructions in the \"AOK Mein Leben\" app for identification. For this purpose, we use PostIdent to protect you from data misuse. You can authenticate yourself with the online ID function of the German identity card (eID) or at a post office. Please download the POSTIDENT app to your smartphone for the identification process.<br /><br />6. App protection Setup and consent to the privacy policy and terms of use<br />Please select an app protection. You can choose between fingerprint (TouchID) and facial recognition (FaceID). If an option is grayed out or not clickable, then it means that your device does not support this option and therefore cannot be selected. As soon as you have agreed to the privacy policy and the terms of use for the ePA, you can use the \"AOK Mein Leben\" app.<br /><br />7. The security of your file usage<br />In order to create an individual security key (code), a random value must be generated. Two options are offered for this purpose:<br />1. Movement of the smartphone or<br />2. Generation of sounds (e.g. by speech)<br />This random value is the basis for the key generation of your ePA.<br />Only with this key is it possible to decrypt the data on your mobile device. We recommend that you store the security key securely outside of your mobile device, as you will need it if you want to change the device or reinstall the app.<br /><br />8. Set up access to the electronic patient record (ePA)<br />You have two options for EHR registration:<br />1. Option: Login via the alternative insured identity (al.vi) if you do not have your electronic health card (eGK) and associated PIN at hand or do not have a PIN for your eGK. The alternative insured identity (al.vi) is linked to your user name and password (1st factor) and your device stored under step 4 (2nd factor). With it, you can log in to the app right away. You will receive a link by e-mail. As soon as you have confirmed this, go back to the app and click on \"Link confirmed\".<br />2. Option: Login with your eGK and PIN<br />To log in via the new NFC-enabled eGK, you need the corresponding PIN. If you have not yet received a PIN from your AOK, you can apply for one there. You will also need your username and password, which you used under point 3, as well as an NFC-enabled smartphone. To register, please place your smartphone above your eGK and then enter the 6-digit CAN (CardAccessNumber) of your eGK. These can be found at the top right of the front. Then please enter the PIN of your eGK that you received from your AOK."
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 2,
+                    "questionText": "What is an alternative insured identity (al.vi)?",
+                    "questionDesc": "al.vi is the virtual way to access the electronic patient record (ePA) without an electronic health card (eGK). All you need is the username (e-mail address) and password of your \"AOK Mein Leben\" app. The alternative insured identity (al.vi) works without a health card. In order to use al.vi, the identity of the user is first established beyond doubt by the health insurance company and a two-factor authentication procedure is used."
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 3,
+                    "questionText": "What is an NFC-enabled electronic health card (eGK)?",
+                    "questionDesc": "NFC (Near Field Communication) is a wireless transmission technology. This transmits information between devices and objects. The NFC-enabled eGK contains a contactless interface, as is also known from bank cards. The data of the cards can only be read when the eGK is held directly to an NFC-enabled smartphone or card terminal. In addition, the corresponding PIN is required. To obtain a PIN, please contact your AOK."
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 4,
+                    "questionText": "How can I change the PIN of my electronic health card (eGK)?",
+                    "questionDesc": "You can change the PIN of your electronic health card (eGK) in the settings of the electronic patient record (ePA) (Settings/ePA). For this change, you will need your eGK, which you will need to hold up to your smartphone for confirmation. Your smartphone must be NFC-enabled for this."
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 5,
+                    "questionText": "What do I need to register?",
+                    "questionDesc": "To register, you will need:<ul><li>A personal e-mail address</li><li>Your electronic health card (eGK</li>)<li>An official identification document with a photo</li></ul>If you would like to use the electronic patient record (ePA) without a smartphone, you can register at your AOK office."
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 6,
+                    "questionText": "Registration is not possible. What could be the reason for this?",
+                    "questionDesc": "<ul><li>\"AOK Mein Leben\" can only be used by AOK insured persons who have an electronic health card (eGK)</li> You have <li>not yet reached the minimum age of 16 years You have</li><li>already registered for \"AOK Mein Leben\"</li></ul>"
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 7,
+                    "questionText": "Why should I use a strong password and what makes a strong password?",
+                    "questionDesc": "By having a strong password, you can help protect your data. Insecure passwords can be found very quickly by attackers by simply trying them out. The Federal Office for Information Security has recommendations on what constitutes a strong password. Further information can be found <a href='https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html' style=\"color: green\">here</a>"
+                },
+                {
+                    "questionId": 2,
+                    "questionSequence": 8,
+                    "questionText": "Why are authorizations, such as access to calls, required to use the \"AOK Mein Leben\" app?",
+                    "questionDesc": "To protect your health data, \"AOK Mein Leben\" implements high security standards. To do this, we use two-factor authentication.<br />The first factor consists of your username (email address) and password. The second factor is your smartphone. You can only use \"AOK Mein Leben\" with a smartphone that you have registered personally. In order to check whether it is a smartphone registered by you, \"AOK Mein Leben\" uses an interface that is also used by your device to make and manage calls. The \"AOK Mein Leben\" app itself does not make any calls and does not access personal data from your smartphone. Without this permission, the app cannot be used."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "sequence": 3,
+            "categoryName": "Login / Registration",
+            "questionList": [
+                {
+                    "questionId": 3,
+                    "questionSequence": 1,
+                    "questionText": "Can the \"AOK Mein Leben\" app be used by several people at the same time?",
+                    "questionDesc": "The \"AOK Mein Leben\" app can currently only be used by one user on your smartphone. It is currently not possible for several people to use it at the same time."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 2,
+                    "questionText": "I would like to log in with a new device (smartphone/tablet). What shall I do?",
+                    "questionDesc": "The first time you sign in to the app with a new device, you'll see a message that that device hasn't been used to sign in yet. You can add your new device to the list of trusted devices by confirming on an already registered device.<br />If you use the electronic patient record (ePA), you will receive an additional e-mail with a link to the e-mail address you have provided. Click on it to activate the device so that it can be registered. After that, your new device will be activated for the EHR.<br />If you no longer have access to an already registered device, you can re-register your new device using the identification procedure."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 3,
+                    "questionText": "Can I use the \"AOK Mein Leben\" app on multiple devices?",
+                    "questionDesc": "You can use the \"AOK Mein Leben\" app on up to three devices. To do this, first install the \"AOK Mein Leben\" app on only one device and register for use.<br />As soon as this is done, download the app to another device. After logging in to the second device for the first time, you will be asked to unlock your second device via the device that has already been registered. Open the app on the already registered device and confirm your secondary device. The second device is now unlocked for further use.<br />A list of devices that you have activated for use can be found in the settings in the \"AOK Mein Leben\" app (device management).<br />In addition, there is a desktop version for your computer. For the desktop version, registration with your AOK is necessary. We will send you a PIN for your electronic health card (eGK). You can then download the desktop app on your computer or laptop and use it together with a card reader for your eGK. We recommend card terminal variants of security classes 2 (card reader with its own PIN pad) or 3 (PIN pad plus display)."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 4,
+                    "questionText": "How can I manage my electronic health record (ePA) devices? ",
+                    "questionDesc": "Device management allows you to manage your registered devices. You can change the device name, lock, rename, or remove devices. You can find the device management in your profile settings in the \"AOK My Life\" app."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 5,
+                    "questionText": "I have installed the \"AOK Mein Leben\" app on several devices and no longer want to use the app on one of the devices. What can I do?",
+                    "questionDesc": "You can remove individual devices in the profile settings under \"Device Management\"."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 6,
+                    "questionText": "I can't access my personal file. What can I do?",
+                    "questionDesc": "Please contact support. Our colleagues look at the problem and work with you to find a solution. This can be found at www.aok.de/meinleben/support"
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 7,
+                    "questionText": "I've forgotten my password. What can I do?",
+                    "questionDesc": "To do this, click on \"Forgot password\" on the app's login page. You will then receive an e-mail to the address you have provided. Click on the link you received and assign a new password."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 8,
+                    "questionText": "I have repeatedly entered my password incorrectly. What can I do?",
+                    "questionDesc": "If you enter your password incorrectly 10 times, your access will be blocked for 10 minutes."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 9,
+                    "questionText": "The use of my AML account has been restricted. What could be the reason for this?",
+                    "questionDesc": "The use of the \"AOK Mein Leben\" app is only possible as an insured person of the AOK. If your insurance ends with the AOK, you can still use the \"AOK My Life\" app for 90 days. You will then have another 90 days to export your AML account data."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 10,
+                    "questionText": "I have lost my mobile device with the \"AOK Mein Leben\" app. What can I do?",
+                    "questionDesc": "If you have lost your device and installed the \"AOK Mein Leben\" app on another device, you should immediately remove the lost device from the device management. This is how you prevent misuse. If you have only installed the \"AOK My Life\" app on one device and no longer own it, then download the \"AOK My Life\" app to the new device and install it. After logging in, the new device requires a new authentication through the identification procedure and confirmation of the new device. Now you can lock or remove your lost device in Device Management."
+                },
+                {
+                    "questionId": 3,
+                    "questionSequence": 11,
+                    "questionText": "I would like to change my master data (name, date of birth, address). Where can I do this?",
+                    "questionDesc": "You can change your master data in the online portal <a href='https://meine.aok.de/' style=\"color: green\">\"Meine</a> AOK\" or in the \"My AOK\" app. Alternatively, you can contact your AOK office."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "sequence": 4,
+            "categoryName": "Save your own documents in the electronic patient record (ePA)",
+            "questionList": [
+                {
+                    "questionId": 4,
+                    "questionSequence": 1,
+                    "questionText": "How can I save my own documents in the electronic patient record (ePA)?",
+                    "questionDesc": "To share your own documents with a medical institution, you must first save the document in your electronic medical record (EHR). You can save a new document using the Add button at the bottom of your EHR."
+                },
+                {
+                    "questionId": 4,
+                    "questionSequence": 2,
+                    "questionText": "What types of files can I store in the electronic health record (EHR)?",
+                    "questionDesc": "You and participating medical institutions can currently store the following file types in your electronic health record (EHR):.pdf (<ul><li>Adobe Portable Document Format</li>)<li>.jpg/.jpeg</li> (image format with compression).tiff (image format)<li>.bxt (plain</li> text format)<li>.rtf (text format with formatting).docx</li> (Microsoft <li>Word)</li><li>.xlsx (Microsoft Excel</li>)<li>.odt (OpenDocument Text).ods (OpenDocument Spreadsheet</li><li>)</li><li> </li><li>.xml (structured data in the form of a text file</li>).<li>hl7 (standard for data exchange in healthcare)</li></ul>Please note that the image format .png cannot be stored and processed."
+                },
+                {
+                    "questionId": 4,
+                    "questionSequence": 3,
+                    "questionText": "How do I upload my vaccinations to the electronic patient record (ePA)?",
+                    "questionDesc": "Only your doctor can fill your digital vaccination certificate with data. This also applies to the dental bonus booklet, the child examination booklet and the maternity record."
+                },
+                {
+                    "questionId": 4,
+                    "questionSequence": 4,
+                    "questionText": "Is there a size limit when uploading documents to the electronic health record (ePA)?",
+                    "questionDesc": "You can upload documents up to a maximum of 25 MB to the electronic patient record (ePA)."
+                },
+                {
+                    "questionId": 4,
+                    "questionSequence": 5,
+                    "questionText": "How can I share my own documents with medical institutions?",
+                    "questionDesc": "In order to be able to share documents, they must be stored in your electronic patient record (ePA). In order for a medical institution to access it, you must grant permission to each of them. Through this permission, the medical institution has the ability to access documents that you have selected. All permissions are valid for a specific set period of time. You can revoke or reassign an authorization at any time."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "sequence": 5,
+            "categoryName": "Representation and authorizations",
+            "questionList": [
+                {
+                    "questionId": 5,
+                    "questionSequence": 1,
+                    "questionText": "How does a substitute for the electronic patient record (ePA) work?",
+                    "questionDesc": "For many people, the support of relatives in the event of illness is important. For this purpose, the electronic patient record (ePA) offers a substitute function. If you would like to be represented for your ePA, grant a new authorization in the settings of the ePA in the menu item \"Substitutions\". Up to five representatives can be appointed. In order to grant authorization, the name, e-mail address and insurance number of the representative are required.<br />If you want to represent someone, you must be authorized in advance by this person. To add a person to represent, select \"Represent file\" on the home screen. As a substitute, you can manage documents and approvals and view logs.<br />Registration in the \"AOK Mein Leben\" app is required for the substitution function."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 2,
+                    "questionText": "What rights does my representation have?",
+                    "questionDesc": "By adding the substitution, the person receives the following rights within their electronic patient record (ePA):<ul><li>Read</li> documents <li>Edit</li> documents <li>Delete documents Upload</li><li>new</li> documents <li>Release documents Medical facilities</li></ul>The substitution is generally unlimited in terms of time and content, but can be revoked by you at any time in the ePA settings."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 3,
+                    "questionText": "Who can access my data?",
+                    "questionDesc": "Access to your electronic patient record (ePA) can only be done with your permission. To do this, you grant authorizations to selected medical facilities in the \"AOK Mein Leben\" app."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 4,
+                    "questionText": "How do I authorize medical institutions for my documents in the electronic patient record (ePA)?",
+                    "questionDesc": "The authorizations are granted by you for the individual medical facilities. Within the electronic medical record (ePA) in the patient record, select the option \"Manage permissions\" and then click on \"Add new authorization\". In the next step, you can search and select the medical institution to be authorized. In each case, you must select a specified period of time. This period can be adjusted at any time. You then have the option of selecting and sharing categories or individual documents."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 5,
+                    "questionText": "Where can I see who already has access to my electronic patient record (EHR)?",
+                    "questionDesc": "If you have already granted permissions to medical institutions, they will appear in the \"Manage Permissions\" section."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 6,
+                    "questionText": "How can I revoke an assigned authorization to access my electronic patient record (ePA)?",
+                    "questionDesc": "Regardless of the defined period of the authorization, you can revoke an authorization at any time. The medical institution in question will then no longer have access to your electronic patient record (ePA).<br />In order to grant access again, you must assign a new authorization for it. To do this, you need to re-add the medical institution you want to eligible."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 7,
+                    "questionText": "What happens if I revoke a permission?",
+                    "questionDesc": "You can revoke previously assigned permissions at any time. The respective medical institution will then no longer have access to your electronic patient record (ePA). Data that has already been saved will remain in your ePA.<br />You must approve the facility again for new authorization."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 8,
+                    "questionText": "What happens when an entitlement expires?",
+                    "questionDesc": "If an authorization has expired, the respective medical institution can no longer access the respective data and documents in your electronic patient record (ePA) and cannot provide you with any new data or documents. The institution will no longer appear in the authorization list.<br />To give a facility access to your EHR again, you must add it again and grant the required authorization again.<br />You can see when an authorization expires in the list of your authorizations within the EHR."
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 9,
+                    "questionText": "How can I search for documents?",
+                    "questionDesc": "You can use the search function to search for documents within the electronic patient record (ePA). Tap the search box, then type the term you're looking for. All data belonging to a document, such as the title, the author or the notes, are searched. The document or the record itself is not searched.<br />You can narrow down your search with the help of the filter function:By <ul><li>time period (start/end</li>)<li>By source (by whom the document was posted)</li></ul>"
+                },
+                {
+                    "questionId": 5,
+                    "questionSequence": 10,
+                    "questionText": "Can I export documents from my electronic medical record (EHR)?",
+                    "questionDesc": "You can export any document from your electronic health record (EHR). You can find this function in the respective detailed view of your documents. You can choose between an export on your device or an external storage service.<br />Important note: Since health data is one of the most sensitive data of all, any export from the EHR should always be carried out with caution. Unsafe places, e.g. social networks or unsecured cloud services, should be avoided."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "sequence": 6,
+            "categoryName": "Privacy",
+            "questionList": [
+                {
+                    "questionId": 6,
+                    "questionSequence": 1,
+                    "questionText": "Where is my data stored in the electronic patient record (ePA)?",
+                    "questionDesc": "The operator of the ePA file system is the Information Technology Service Center of the Statutory Health Insurance (ITSG GmbH) with server location in Germany (Frankfurt am Main region). Your data is stored there in encrypted form and can only be viewed by you or the service providers authorized by you."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 2,
+                    "questionText": "Why is my data safe in the \"AOK Mein Leben\" app?",
+                    "questionDesc": "The \"AOK Mein Leben\" app does not use a central storage location for the data it contains, but connects various highly secure storage locations with each other. The operators of the individual storage locations individually ensure that unauthorized intrusion into the servers is as difficult as possible. The protection of your data is our highest priority. Your data is encrypted and can only be decrypted using a key held by you.<br /><br />A criminal attack with the aim of unauthorized access is never impossible. If, despite the best efforts, unauthorized persons succeed in accessing a \"AOK Mein Leben\" server, this will not allow your data to be decrypted."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 3,
+                    "questionText": "Who can view my data in the electronic patient record (ePA)?",
+                    "questionDesc": "As an AOK insured person and user of the electronic patient record (ePA), you can see all stored data in the app. All other authorizations are only granted by you.<br />You have the option of granting access to your documents to selected medical institutions in the area of your EHR. These groups of people will then be able to see the data you have shared.<br />In order to receive data from specified medical institutions, you must authorize them in advance to access your EHR. You can revoke this permission at any time."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 4,
+                    "questionText": "What are the levels of confidentiality for documents?",
+                    "questionDesc": "You can choose between Normal, Confidential and Strictly Confidential confidentiality levels for your documents. The selection is available to you when uploading your documents. For convenience, you can set a default when uploading the document.<br />If you classify a document as strictly confidential, you must share it directly from the document detail view."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 5,
+                    "questionText": "Can AOK view and use my data?",
+                    "questionDesc": "The AOK has no way of viewing your data in the electronic patient record (ePA) and cannot be authorized by you."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 6,
+                    "questionText": "What happens if I agree to the synchronization of my health insurance data in the app?",
+                    "questionDesc": "If you agree to the synchronization of your health insurance data, your AOK will provide you with your stored billing data."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 7,
+                    "questionText": "Will my data be passed on to third parties, for example for research purposes?",
+                    "questionDesc": "Your data will only be passed on to medical institutions that you have authorized. You are currently unable to pass on your data to research institutions."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 8,
+                    "questionText": "Can documents contain malware?",
+                    "questionDesc": "Yes, documents can contain malware. To prevent damage, delete corrupted files and do not open them. Opening is at your own risk."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 9,
+                    "questionText": "What can I do to ensure the security of the \"AOK Mein Leben\" app?",
+                    "questionDesc": "The medical documents in the electronic patient record (ePA) are end-to-end encrypted. As a result, protection against possible viruses or malware on your smartphone must be provided.<br />To protect against malware, we recommend the following measures:<ul><li>Keep your smartphone and app version up to date</li><li>Think carefully about whether to click on a link or download something</li><li>Do not allow applications from unknown sources to</li><li>open and only download files from senders,  You trust</li> Use <li>antivirus programs</li> Use a <li>screen lock on your smartphone Use a</li><li>strong password. Please follow the recommendations of the German Federal Office for Information Security. Further information can be found <a href='https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html' style=\"color: green\">here.</a></li></ul>"
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 10,
+                    "questionText": "Can data and documents in the electronic patient record (ePA) be deleted?",
+                    "questionDesc": "You can delete all data and documents in your electronic patient record (ePA). You can delete individual documents in the detail view. For multiple documents, the \"Select\" function in the patient file is recommended, which allows you to mark and delete several documents. Previously authorized medical institutions can also delete documents in your EHR, for example if a document needs to be updated. However, this only applies to the data and documents posted by the practice or hospital in question. If you delete a document, it cannot be recovered."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 11,
+                    "questionText": "How can I check the activities in my electronic medical record (EHR)?",
+                    "questionDesc": "In order to be able to track the activities in your electronic patient record (ePA), a log function is available. You can access this under the 3-dot menu (top right). You can access three types of logging.<br />The action log provides information about saving, downloading, and deleting documents, as well as assigning, modifying, and deleting permissions. Furthermore, the access to the ePA and the search for documents and data are displayed. In the extended log you will find detailed information, e.g. on the display of the logs and the access of authorized persons to your file. The action log is available to you on every device you are logged in with.<br />The login log provides information about the times of your registration and deregistration in the personal file. In addition, all your registrations are displayed in your EHR that were made from outside, such as when visiting the doctor's office.<br />The data export log shows when you have shared a document or saved it on your mobile device. This protocol is not available to you across devices. The entries are different when using multiple devices. Log entries are deleted after one year. However, the last 50 entries will remain even if the above-mentioned deadline has passed."
+                },
+                {
+                    "questionId": 6,
+                    "questionSequence": 12,
+                    "questionText": "Can I be notified about activities in my electronic medical record (ePA)?",
+                    "questionDesc": "You can use the settings of the electronic patient record (ePA) under \"Notifications\" to set whether and for how long you want to be notified about certain activities from your action log. You can choose between two predefined time periods and your own time period.<br />Under \"Authorization notes\" you can also decide whether you want to be informed who has access to a document that you are currently saving in the EHR at the current time."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "sequence": 7,
+            "categoryName": "Change of health insurance, termination and deletion",
+            "questionList": [
+                {
+                    "questionId": 7,
+                    "questionSequence": 1,
+                    "questionText": "How can I take my electronic patient record (ePA) with me to the AOK?",
+                    "questionDesc": "You must first cancel your electronic patient record (ePA) with your previous health insurance company and start switching providers. Then register with the \"AOK Mein Leben\" app and select the ePA to start the registration of your file. In the further course, we will carry out the provider change together with you."
+                },
+                {
+                    "questionId": 7,
+                    "questionSequence": 2,
+                    "questionText": "What do I have to do if I want to switch within the AOK community?",
+                    "questionDesc": "In the ePA settings under the menu item \"Contract\" select the \"AOK change\". Select your new AOK and click on the \"Cancel ePA\" button. In the next step, activate the ePA on your new AOK."
+                },
+                {
+                    "questionId": 7,
+                    "questionSequence": 3,
+                    "questionText": "I no longer want to use the electronic patient record (ePA). What can I do?",
+                    "questionDesc": "You can cancel your electronic patient record (ePA) at any time without giving reasons. In the EHR settings \u2013 under \"Contract\" \u2013 you will find the corresponding options for termination and revocation. The termination includes a notice period of 14 days. Within this period, you can cancel the termination by revoking it. After the deadline, all your health data in the ePA will be deleted and your user account will be closed. In addition, it is possible to delete your user account with all data immediately. The function can also be found under the menu item \"Contract\" within the EHR settings."
+                },
+                {
+                    "questionId": 7,
+                    "questionSequence": 4,
+                    "questionText": "I would like to delete my \"AOK Mein Leben\" account in the app. What can I do?",
+                    "questionDesc": "Within your profile, you can delete the \"AOK Mein Leben\" account by clicking on the \"Delete AML account\" tab."
+                },
+                {
+                    "questionId": 7,
+                    "questionSequence": 5,
+                    "questionText": "Is it possible to export my health data before deleting my electronic patient record (ePA)?",
+                    "questionDesc": "In the event of both cancellation and revocation, you have the option of exporting your health data. Due to the security mechanisms, the documents stored in the electronic patient record (ePA) can only be exported individually and stored on your device."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "sequence": 8,
+            "categoryName": "E-prescription app: Registration of the electronic patient record (ePA)",
+            "questionList": [
+                {
+                    "questionId": 8,
+                    "questionSequence": 1,
+                    "questionText": "What is the e-prescription?",
+                    "questionDesc": "Pharmacy-only medicines can be issued as e-prescriptions. After the round, doctors send the prescription paperless to the smartphone. The e-prescription is digitally created and signed. The prescription code can be redeemed on the smartphone or by printing it out at the pharmacy. With the gematik e-prescription app, prescriptions can be pre-ordered and redeemed at the pharmacy of your choice."
+                },
+                {
+                    "questionId": 8,
+                    "questionSequence": 2,
+                    "questionText": "How can I redeem an e-prescription?",
+                    "questionDesc": "To redeem the e-prescription, you need an NFC-enabled health card and the corresponding PIN. Alternatively, you can also use the gematik e-prescription app. In this app, a login is required, with which you uniquely identify yourself. You can use the electronic patient record (ePA) or the \"AOK Mein Leben\" app to register. In the registration process of the e-prescription app, you will be redirected to the \"AOK Mein Leben\" app. Log in there with your username (email address) and password. You will then be taken back to the e-prescription app. You can find more information <a href='https://www.aok.de/pk/versichertenservice/app-mein-leben/login/' style=\"color: green\">here:</a>"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "sequence": 9,
+            "categoryName": "Relocation of the \"AOK Mein Leben\" app",
+            "questionList": [
+                {
+                    "questionId": 9,
+                    "questionSequence": 1,
+                    "questionText": "What does the move of the \"AOK Mein Leben\" app mean for me?",
+                    "questionDesc": "From 01.09.2023, a new update of the \"AOK Mein Leben\" app will be available for you to update in the Appstore or Google PlayStore. The app will help you complete all the necessary steps. The reason for this is the relocation of the \"AOK Mein Leben\" app to a new platform. In order for your documents stored in the electronic patient record (ePA) to be transferred, please update the \"AOK Mein Leben\" app in the period from 01.09.2023 to 30.11.2023. Further information and detailed step-by-step instructions can be found at <a href='https://www.aok.de/meinleben/umzug' style=\"color: green\">www.aok.de/meinleben/umzug.</a>"
+                },
+                {
+                    "questionId": 9,
+                    "questionSequence": 2,
+                    "questionText": "Why is the \"AOK Mein Leben\" app changing operators?",
+                    "questionDesc": "While in the past there were two different service providers for the \"AOK Mein Leben\" app, the AOK community is relying on standard components from a single service provider with the change of operator. This offers us better framework conditions to be able to offer our policyholders the electronic patient record (ePA) and other healthcare services (e.g. identity management, e-prescriptions) in the future."
+                },
+                {
+                    "questionId": 9,
+                    "questionSequence": 3,
+                    "questionText": "Do I have to re-register due to the relocation of the \"AOK Mein Leben\" app?",
+                    "questionDesc": "After you have updated the \"AOK Mein Leben\" app in the Appstore or Google PlayStore and then started it, you have to carry out certain steps once. The \"AOK My Life\" app will help you to complete all the necessary steps."
+                },
+                {
+                    "questionId": 9,
+                    "questionSequence": 4,
+                    "questionText": "What happens to my electronic patient record (ePA) if I don't do anything?",
+                    "questionDesc": "If you have not updated the \"AOK Mein Leben\" app by 30.11.23, your electronic patient record (ePA) will be deleted. You can export and save log data and documents from your EHR beforehand. Step-by-step instructions can be found on this page."
+                }
+            ]
+        }
+    ]
+}
